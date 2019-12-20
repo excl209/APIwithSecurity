@@ -1,0 +1,14 @@
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\bin\Debug\netcoreapp2.2\APIwithSecurityExample.deps.json
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\bin\Debug\netcoreapp2.2\APIwithSecurityExample.runtimeconfig.json
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\bin\Debug\netcoreapp2.2\APIwithSecurityExample.runtimeconfig.dev.json
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\bin\Debug\netcoreapp2.2\APIwithSecurityExample.dll
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.csprojAssemblyReference.cache
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.csproj.CoreCompileInputs.cache
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.RazorAssemblyInfo.cache
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.RazorAssemblyInfo.cs
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.AssemblyInfoInputs.cache
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.AssemblyInfo.cs
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.RazorTargetAssemblyInfo.cache
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\bin\Debug\netcoreapp2.2\APIwithSecurityExample.pdb
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.dll
+C:\Users\excl2\source\repos\APIwithSecurityExample\APIwithSecurityExample\obj\Debug\netcoreapp2.2\APIwithSecurityExample.pdb
